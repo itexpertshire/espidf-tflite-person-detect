@@ -1,0 +1,6 @@
+dependencies:
+  espressif/esp-tflite-micro:
+    version: "*"
+
+  espressif/esp32-camera: "~2.0.5"
+
